@@ -1,4 +1,3 @@
-1️⃣ README Geral (README.md)
 # 🚀 Projeto Squad 6 - ProSEmpre 2025.2
 
 Bem-vindo ao repositório oficial do **Squad 6**!  
