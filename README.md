@@ -1,3 +1,7 @@
+---
+
+## 2️⃣ README Individual de Jacó (`front-jaco/README.md`)
+
 ```markdown
 # 🖥 Branch Front-end: Jacó Ryan Silva Souza
 
@@ -28,7 +32,7 @@ Copiar código
 git add .
 git commit -m "Descrição da alteração"
 git push origin front-jaco
-📥 Atualizar sua branch com a main
+📥 Como atualizar sua branch com a main
 bash
 Copiar código
 git checkout main
