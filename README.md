@@ -11,12 +11,6 @@ Aqui centralizamos o desenvolvimento do desafio **Front + Back** da EJECT.
 - **front-nome** → Branch individual de cada membro Front-end  
 - **back-nome** → Branch individual de cada membro Back-end  
 
-**Exemplo de criação de branch:**
-
-```bash
-git checkout -b front-jaco
-git checkout -b back-gabriel
-````
 🔀 Acessando sua branch
 Clone o repositório:
 ````
